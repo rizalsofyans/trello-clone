@@ -1,5 +1,5 @@
 import { ColumnContainer, ColumnTitle } from "../styles/style";
-import { AddNewItem } from "./AddItem";
+import { AddNewItem } from "./AddNewItem";
 import { Card } from "./CardComponent";
 
 type ColumnProps = {
