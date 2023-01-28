@@ -3,7 +3,7 @@ import { Inter } from "@next/font/google";
 
 import { AppContainer } from "../styles/style";
 import { Column } from "../components/Column";
-import { AddNewItem } from "../components/AddItem";
+import { AddNewItem } from "../components/AddNewItem";
 
 const inter = Inter({ subsets: ["latin"] });
 
